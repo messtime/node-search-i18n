@@ -1,0 +1,1 @@
+hst.agreement_1,hst.agreement_2,hst.toast4,hst.toast5,hst.toast3,hst.agreement_title,hst.agreement_desc,hst.agreement_subtitle,hst.agreement_sub_desc,account.agreement_sign_agreement,account.general_account_date,hst.agreement_input_sign,hst.agreement_sign,account.agreement_sign_error_null,accounttransfer.agree

@@ -1,0 +1,22 @@
+{
+  "name": "searchFile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchFile.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "cross-env": "^5.2.0",
+    "rimraf": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env BUILD=webpack node searchFile.js",
+    "gulp": "cross-env BUILD=gulp node searchFile.js"
+  },
+  "author": "lewei li",
+  "license": "ISC"
+}

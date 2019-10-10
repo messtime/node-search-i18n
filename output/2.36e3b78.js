@@ -1,0 +1,1 @@
+login.code_already_send,login.code_already_send,m_invest_type.invest_acc,portfolio.menu2,m_invest_type.invest_type,codeMsg[,info.confirm,info.confirm,info.confirm,hstMsg.contact_num,hstMsg[,hstMsg.contact_num,hstMsg[99999],hstMsg.contact_num,codeMsg[100002],hstMsg.contact_num,codeMsg[100001],hstMsg.contact_num,hstMsg[99999],hstMsg.contact_num,info.confirm,info.confirm,login.login

@@ -1,0 +1,1 @@
+hst.withdraw_success,hst.withdraw_toast2,hst.err_10117,info.confirm,hst.withdraw_toast1,transfer.money_not_valid,hst.withdraw_title,hst.withdraw_sub_title,hst.withdraw_all,hst.withdraw_desirable,hst.allocation_transfer_hkd,portfolio.confirm,hst.withdraw_back
