@@ -1,0 +1,12 @@
+build/*.js
+config/*.js
+src/i18n/*
+src/mock.js
+src/defineCode.js
+src/websocket.js
+src/workflow.js
+scripts
+src/i18nTemp
+deploy
+node_modules
+vux
