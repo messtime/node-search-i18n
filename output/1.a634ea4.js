@@ -1,1 +1,0 @@
-difference.detail_,difference.detail_,difference.detail_,difference.detail_,difference.detail_,,,,,portfolio.guodu_cash,m_allocation.stock,m_allocation.bond,m_allocation.other

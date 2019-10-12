@@ -1,1 +1,0 @@
-hst.open_acc_auth,hst.open_acc_idnum,hst.open_acc_choose,hst.toast1_1,hst.toast1_2,hst.toast2,portfolio.confirm,info.cancel,account.basic_birthday,m_records.confirm

@@ -1,1 +1,0 @@
-hst.toast13,hst.err_10117,info.confirm,transfer.money_not_valid,hst.deposit_title,portfolio.hkd,hst.deposit_sub_title,hst.deposit_transferable,hst.allocation_transfer_hkd,hst.deposit_min,portfolio.confirm,hst.deposit_notice

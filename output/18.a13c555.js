@@ -1,1 +1,0 @@
-hst.allocation_insufficient_deposit,hst.allocation_deposit_subtitle,hst.allocation_deposit_min,hst.allocation_deposit_1,hst.allocation_deposit_1_desc,hst.allocation_deposit_2,hst.allocation_deposit_2_desc,hst.allocation_insufficient_back,hst.invest_acc_cash_in

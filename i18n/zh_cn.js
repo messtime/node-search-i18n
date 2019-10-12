@@ -635,6 +635,7 @@ export default {
     "country_id": "印度尼西亚",
     "country_india": "印度",
     "country_italy": "意大利",
+    "country_denmark": "丹麦",
     "country_japan": "日本",
     "country_korea": "韩国",
     "country_malaysia": "马来西亚",

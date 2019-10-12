@@ -1,1 +1,0 @@
-hst.open_acc_submit,hst.open_acc_submit_desc_1,m_records.confirm,hst.open_acc_success,hst.open_acc_success_desc,hst.open_acc_title
